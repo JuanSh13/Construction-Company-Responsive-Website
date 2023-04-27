@@ -119,13 +119,13 @@ main {
     justify-content: center;
     align-items: center;
 }
-.block-two__row :nth-child(1){
+.block-two__cont-a:nth-child(1){
     background: url(../img/page1-img-rounded-1.png);
 }
-.block-two__row :nth-child(2){
+.block-two__cont-a:nth-child(2){
     background: url(../img/page1-img-rounded-2.png);
 }
-.block-two__row :nth-child(3){
+.block-two__cont-a:nth-child(3){
     background: url(../img/page1-img-rounded-3.png);
 }
 .block-two__cont-b {
